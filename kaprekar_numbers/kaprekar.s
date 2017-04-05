@@ -56,6 +56,7 @@ kapr:
                           ; And examine the stack. Like this:
                           ; $ gdb kaprekar
                           ; (gdb) break 50
+                          ; (gdb) run
                           ; (gdb) x /10hd $esp
                           ; Voilà!
 
