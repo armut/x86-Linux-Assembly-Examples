@@ -1,5 +1,5 @@
 section     .data
-            number   db "%x", 10, 0 ; Declare variable for printing palindrome numbers.
+            number   db "%d", 10, 0 ; Declare variable for printing palindrome numbers.
 
 section     .text
             global main
@@ -93,4 +93,3 @@ exit:
             mov   bx, 0             ; Return 0.
             int   80h               ; Return to kernel.
                                     
-                                    ; PS. Ah, yes. The program prints out numbers in hex, sorry. ^^;
