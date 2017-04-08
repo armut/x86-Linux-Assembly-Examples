@@ -65,7 +65,7 @@ This program finds [happy numbers](https://en.wikipedia.org/wiki/Happy_number) 2
 This program implements [insertion sort](https://en.wikipedia.org/wiki/Insertion_sort) on a given array of integers. Unfortunately it doesn't print anything to stdout. One can examine memory to see the effect with a debugger like [gdb](https://www.gnu.org/software/gdb/).
 
 
-   * [insertion\_sort.s](/insertion\_sort/insertion\_sort)
+   * [insertion\_sort.s](/insertion\_sort/insertion\_sort.s)
 
 
 ## Binary Search
