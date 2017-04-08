@@ -28,6 +28,7 @@ $ make clean
 ```
 
 ## Numbers That Are Divisible by 2 and 3
+   * [div\_2\_3.s](/blob/master/numbers_that_are_divisible_by_2_3/div_2_3.s)
 This example shows simple div and jmp operations and calculates the sum of the numbers that are divisible by 2 and 3 up to the value defined in one of the registers. This example also contains corresponding c code.
 
 ## Prime Numbers
@@ -37,7 +38,7 @@ This program finds [prime numbers](https://en.wikipedia.org/wiki/Prime_number) u
 This program finds [palindromic numbers](https://en.wikipedia.org/wiki/Palindromic_number) up to 4 digits. It uses printf to write the numbers to the screen.
 
 ## Kaprekar Numbers
-This program finds Kaprekar numbers up to 1000. Also there is a c version of this program.
+This program finds [Kaprekar numbers](https://en.wikipedia.org/wiki/Kaprekar_number) up to 1000. Also there is a c version of this program.
 
 ## Happy Numbers
 This program finds [happy numbers](https://en.wikipedia.org/wiki/Happy_number) 200 through 300. It uses printf to write the number to the stdout. There also is a Python example of finding happy numbers.
