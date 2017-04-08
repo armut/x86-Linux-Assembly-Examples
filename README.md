@@ -76,7 +76,7 @@ This is an implementation example of [binary search](https://en.wikipedia.org/wi
 
 Useful Links
 ============
-A lot of useful information about Linux Assembly and related tutorials can be found at [this](asm.sourceforge.net) web site. This site is really helpful.
+A lot of useful information about Linux Assembly and related tutorials can be found at [this](http://asm.sourceforge.net) web site. This site is really helpful.
 
 If you find bugs, please let me know. Thanks!
 
